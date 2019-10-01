@@ -50,3 +50,6 @@ If you want to modify the client library, you'll need to navigate to the client 
 ## LICENSE
 
 [MIT](LICENSE)
+
+## Attempt History
+1. First attempt
