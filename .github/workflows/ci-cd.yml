@@ -51,7 +51,7 @@ jobs:
     - name: 'Run Azure webapp deploy action'
       uses: azure/webapps-deploy@v1
       with: 
-        app-name: muthuk-ghpgapp # Replace with your app name
+        app-name: smalpani-GH-actions # Replace with your app name
         package: './Application'
 
     # Azure logout 
